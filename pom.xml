@@ -9,8 +9,8 @@
     <packaging>jar</packaging>
     <developers>
         <developer>
-            <name><!-- YOUR NAME --></name>
-            <email><!-- YOUR EMAIL ADDRESS --></email>
+            <name>Gyöngyösi Márk</name>
+            <email>mrkgyngysi@gmail.com</email>
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
         </developer>
